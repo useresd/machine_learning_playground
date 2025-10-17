@@ -23,3 +23,6 @@ dist/
 # Environment files
 .env
 *.env
+
+# data that can be downloades
+data
